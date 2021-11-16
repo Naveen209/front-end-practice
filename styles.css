@@ -1,0 +1,21 @@
+.margin-top-and-bottom{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:rgba(0, 110, 255, 0.829)
+}
+.display-flex{
+    display: flex;
+   
+}
+.margin-top-and-bottom1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: slategray;
+}
+#image-style{
+    border: 8px solid slategrey;
+}
+#body-style{
+    font-family: 'Montserrat', sans-serif;
+
+}
